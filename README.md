@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Amritesh.
 
-I'm a Python developer and Data Scientist with a passion for turning data into actionable insights. I work extensively with:
+I'm a Python developer and Data Scientist. I work extensively with:
 
 - **Data Analysis**: `pandas`, `numpy`
 - **Data Visualization**: `matplotlib`, `seaborn`
